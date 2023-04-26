@@ -55,4 +55,5 @@ Later we will use the ML model in the flask to do the prediction via api.
 With above concepts, you can later learn any new concept and progress further.
 
 Bonus: Work with Github/Version Control System.
-------------------------------------------------------------------------------
+Note: For every concept you will have a coding challenge to complete for better understanding.
+---------------------------------------------------------------------------------
