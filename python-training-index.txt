@@ -1,0 +1,58 @@
+Python Training Content:
+-------------------------------------------
+1. Introduction
+2. Env setup
+3. Syntax
+4. Comments
+5. Variables
+
+6. Data types
+7. Numbers
+8. Casting
+9. Strings
+10. Booleans
+11. Operators
+
+12. Decision Making
+13. Lists
+14. Tuples
+15. Sets
+16. Dictionary
+17. Loops - ifelse/while/for
+18. Date and Time
+
+19. Functions
+20. lambda
+21. Arrays
+22. Inheritance
+23. Iterators
+24. Polymorphism
+
+25. Scope
+26. Modules
+27. Files I/Operators
+28. Regex
+29. Exceptions
+
+30. File Handling
+
+31. Charts using matplotlib
+
+32. Classes/Objects
+33. Reg Expressions
+34. CGI programming
+35. Database - MySQL
+36. Networking
+37. Multithreading
+-------------------------------------------
+38. Getting started with Machine Learning
+39. Getting started with flask
+40. Getting started with django
+-------------------------------------------
+Usecase: we will develop a model using machine learning
+Later we will use the ML model in the flask to do the prediction via api.
+
+With above concepts, you can later learn any new concept and progress further.
+
+Bonus: Work with Github/Version Control System.
+------------------------------------------------------------------------------
